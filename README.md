@@ -1,5 +1,5 @@
 # COM426-Twitter
-This C# console app demonstrates how to load Twitter data in your code. Note that for the assignment, you will need to implement a *graphical app* displaying the social media messages. This code is intended to show you the process, however you will need to re-implement this yourself.
+This C# console app demonstrates how to load Twitter data in your code. Note that for the assignment, you will need to implement a C# WPF *graphical app* displaying the social media messages. This code is intended to show you the process, however you will need to re-implement this yourself.
 
 ## Resources
 
