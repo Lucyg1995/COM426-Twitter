@@ -15,6 +15,16 @@ List<Tweet> tweets = JsonConvert.DeserializeObject<List<Tweet>>(json, new IsoDat
 });
 ```
 
+## Data files
+
+The following three data files are included in this project:
+
+1. `@CompGlyndŵr_AllTweets.json` -- All tweets sent by @CompGlyndwr
+2. `@CompGlyndŵr_Followers.json` -- List of users following @CompGlyndwr
+3. `@CompGlyndŵr_User.json` -- User information for @CompGlyndwr
+
+You will need to read and process all three of these files in your application.
+
 ## How to approach the coding
 
 For the coding elements of the project, you will need to complete the following:
